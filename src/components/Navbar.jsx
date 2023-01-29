@@ -6,6 +6,7 @@ import SearchOutlinedIcon from "@mui/icons-material/SearchOutlined";
 
 const Container = styled.div`
   height: 60px;
+  margin-bottom: 25px;
 `;
 
 const Wrapper = styled.div`
