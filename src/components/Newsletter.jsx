@@ -42,6 +42,7 @@ const Button = styled.button`
   border: none;
   background-color: #037103;
   color: white;
+  cursor: pointer;
 `;
 
 const Newsletter = () => {
