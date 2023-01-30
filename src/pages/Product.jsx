@@ -5,7 +5,7 @@ import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 import Newsletter from "../components/Newsletter";
 
-import watch from "../images/smart_watch2.png";
+import watch from "../images/watch3.png";
 
 import DoDisturbOnOutlinedIcon from "@mui/icons-material/DoDisturbOnOutlined";
 import AddCircleOutlineOutlinedIcon from "@mui/icons-material/AddCircleOutlineOutlined";
@@ -136,7 +136,7 @@ const Product = () => {
             <Filter>
               <FilterTitle>Color</FilterTitle>
               <FilterColor color="black" />
-              <FilterColor color="blue" />
+              <FilterColor color="brown" />
               <FilterColor color="gray" />
             </Filter>
             <Filter>
