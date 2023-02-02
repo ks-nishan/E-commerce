@@ -8,7 +8,7 @@ const Container = styled.div`
       rgba(255, 255, 255, 0.5),
       rgba(255, 255, 255, 0.5)
     ),
-    url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpgJnhVwOz4sEAQJGxYUN-m1JvgDYWZlDuJg&usqp=CAU")
+    url("https://cdn.shopify.com/s/files/1/0587/8264/6429/products/apple-watch-strap-991474_grande.jpg?v=1664126500")
       center;
   background-size: cover;
   display: flex;
